@@ -9,3 +9,5 @@ important changes again
 
 
 try #2 by myself
+
+Make some changes to refresh in memoru how to synch data 
