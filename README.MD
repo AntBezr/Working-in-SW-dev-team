@@ -12,3 +12,6 @@ try #2 by myself
 
 Make some changes to refresh in memory how to synch data 
 try#3
+
+
+Also some changes to refresh 
